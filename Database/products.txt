@@ -1,0 +1,19 @@
+apple
+this is the best product
+3.0
+3.00
+food 
+-
+Juice
+This is apple juice
+3.9
+3.0
+drink
+-
+
+laptop
+It is very fast
+4.6
+500.0
+electronics
+-
